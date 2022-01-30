@@ -1,0 +1,2 @@
+LobbyWaitingTimer = 10000
+TurnWaitingTimer = 45000
